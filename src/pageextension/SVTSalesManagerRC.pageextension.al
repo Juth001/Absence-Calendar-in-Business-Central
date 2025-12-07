@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Sales.RoleCenters;
 
-pageextension 85017 "SVT Sales Manager RC" extends "Sales Manager Role Center"
+pageextension 85016 "SVT Sales Manager RC" extends "Sales Manager Role Center"
 {
     layout
     {

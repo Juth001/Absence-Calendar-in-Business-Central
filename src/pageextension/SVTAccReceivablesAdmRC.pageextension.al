@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Finance.RoleCenters;
 
-pageextension 85006 "SVT Acc. Receivables Adm RC" extends "Acc. Receivables Adm. RC"
+pageextension 85005 "SVT Acc. Receivables Adm RC" extends "Acc. Receivables Adm. RC"
 {
     layout
     {

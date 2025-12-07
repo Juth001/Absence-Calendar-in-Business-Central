@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Projects.RoleCenters;
 
-pageextension 85012 "SVT Job Project Manager RC" extends "Job Project Manager RC"
+pageextension 85011 "SVT Job Project Manager RC" extends "Job Project Manager RC"
 {
     layout
     {

@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Sales.RoleCenters;
 
-pageextension 85018 "SVT Sales Order Processor RC" extends "Order Processor Role Center"
+pageextension 85017 "SVT Sales Order Processor RC" extends "Order Processor Role Center"
 {
     layout
     {

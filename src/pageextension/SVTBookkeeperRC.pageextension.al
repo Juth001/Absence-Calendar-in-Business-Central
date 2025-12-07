@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Finance.RoleCenters;
 
-pageextension 85008 "SVT Bookkeeper RC" extends "Bookkeeper Role Center"
+pageextension 85007 "SVT Bookkeeper RC" extends "Bookkeeper Role Center"
 {
     layout
     {

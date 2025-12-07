@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Finance.RoleCenters;
 
-pageextension 85005 "SVT Acc. Payables Coordinator" extends "Acc. Payables Coordinator RC"
+pageextension 85004 "SVT Acc. Payables Coordinator" extends "Acc. Payables Coordinator RC"
 {
     layout
     {

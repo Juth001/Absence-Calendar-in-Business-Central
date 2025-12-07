@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Purchases.RoleCenters;
 
-pageextension 85016 "SVT Purchasing Agent RC" extends "Purchasing Agent Role Center"
+pageextension 85015 "SVT Purchasing Agent RC" extends "Purchasing Agent Role Center"
 {
     layout
     {

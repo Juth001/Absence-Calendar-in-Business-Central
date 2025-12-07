@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Manufacturing.RoleCenters;
 
-pageextension 85022 "SVT Shop Supervisor Mfg RC" extends "Shop Supervisor Mfg Foundation"
+pageextension 85021 "SVT Shop Supervisor Mfg RC" extends "Shop Supervisor Mfg Foundation"
 {
     layout
     {

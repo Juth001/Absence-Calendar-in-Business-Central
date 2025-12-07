@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Manufacturing.RoleCenters;
 
-pageextension 85015 "SVT Production Planner RC" extends "Production Planner Role Center"
+pageextension 85014 "SVT Production Planner RC" extends "Production Planner Role Center"
 {
     layout
     {

@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Warehouse.RoleCenters;
 
-pageextension 85026 "SVT Whse. Basic RC" extends "Whse. Basic Role Center"
+pageextension 85025 "SVT Whse. Basic RC" extends "Whse. Basic Role Center"
 {
     layout
     {

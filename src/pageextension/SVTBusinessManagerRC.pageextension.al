@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Finance.RoleCenters;
 
-pageextension 85009 "SVT Business Manager RC" extends "Business Manager Role Center"
+pageextension 85008 "SVT Business Manager RC" extends "Business Manager Role Center"
 {
     layout
     {

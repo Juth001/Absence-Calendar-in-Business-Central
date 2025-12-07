@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Finance.RoleCenters;
 
-pageextension 85001 "SVT Accountant RC" extends "Accountant Role Center"
+pageextension 85000 "SVT Accountant RC" extends "Accountant Role Center"
 {
     layout
     {

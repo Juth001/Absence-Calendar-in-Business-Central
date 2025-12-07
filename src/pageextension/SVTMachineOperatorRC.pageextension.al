@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Manufacturing.RoleCenters;
 
-pageextension 85014 "SVT Machine Operator RC" extends "Machine Operator Role Center"
+pageextension 85013 "SVT Machine Operator RC" extends "Machine Operator Role Center"
 {
     layout
     {

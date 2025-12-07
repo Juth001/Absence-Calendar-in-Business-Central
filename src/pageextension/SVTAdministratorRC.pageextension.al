@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.RoleCenters;
 
-pageextension 85007 "SVT Administrator RC" extends "Administrator Role Center"
+pageextension 85006 "SVT Administrator RC" extends "Administrator Role Center"
 {
     layout
     {

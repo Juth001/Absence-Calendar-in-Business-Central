@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Service.RoleCenters;
 
-pageextension 85021 "SVT Service Technician RC" extends "Service Technician Role Center"
+pageextension 85020 "SVT Service Technician RC" extends "Service Technician Role Center"
 {
     layout
     {

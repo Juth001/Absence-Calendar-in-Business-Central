@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.CRM.RoleCenters;
 
-pageextension 85019 "SVT Sales & Relationship RC" extends "Sales & Relationship Mgr. RC"
+pageextension 85018 "SVT Sales & Relationship RC" extends "Sales & Relationship Mgr. RC"
 {
     layout
     {

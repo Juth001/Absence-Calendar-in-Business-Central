@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.Projects.RoleCenters;
 
-pageextension 85013 "SVT Job Resource Manager RC" extends "Job Resource Manager RC"
+pageextension 85012 "SVT Job Resource Manager RC" extends "Job Resource Manager RC"
 {
     layout
     {

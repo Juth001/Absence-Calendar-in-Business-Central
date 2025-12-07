@@ -1,7 +1,7 @@
 namespace ScriptumVita.AbsenceRegistration;
 using Microsoft.AccountantPortal;
 
-pageextension 85003 "BAC Accounting Services RC" extends "Accounting Services RC"
+pageextension 85002 "BAC Accounting Services RC" extends "Accounting Services RC"
 {
     layout
     {
